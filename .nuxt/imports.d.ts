@@ -32,5 +32,4 @@ export { default as coursesData } from '../composables/coursesData';
 export { useCourse } from '../composables/useCourse';
 export { useCourses } from '../composables/useCourses';
 export { useDialogPluginComponent, useFormChild, useInterval, useMeta, useQuasar, useRenderCache, useSplitAttrs, useTick, useTimeout } from 'quasar';
-export { useNuxtDevTools } from '../node_modules/@nuxt/devtools/dist/runtime/use-nuxt-devtools';
 export { definePageMeta } from '../node_modules/nuxt/dist/pages/runtime/composables';
